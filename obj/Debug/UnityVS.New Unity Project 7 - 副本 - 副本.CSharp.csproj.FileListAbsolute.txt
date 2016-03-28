@@ -1,0 +1,9 @@
+C:\Users\zhangdaoning\Documents\New Unity Project 7 - 副本 - 副本\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\zhangdaoning\Documents\New Unity Project 7 - 副本 - 副本\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\zhangdaoning\Documents\New Unity Project 7 - 副本 - 副本\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\zhangdaoning\Documents\New Unity Project 7 - 副本 - 副本\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\zhangdaoning\Documents\New Unity Project 7 - 副本 - 副本\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\zhangdaoning\Documents\New Unity Project 7 - 副本 - 副本\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\zhangdaoning\Documents\New Unity Project 7 - 副本 - 副本\obj\Debug\UnityVS.New Unity Project 7 - 副本 - 副本.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\zhangdaoning\Documents\New Unity Project 7 - 副本 - 副本\obj\Debug\Assembly-CSharp.dll
+C:\Users\zhangdaoning\Documents\New Unity Project 7 - 副本 - 副本\obj\Debug\Assembly-CSharp.pdb
